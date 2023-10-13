@@ -1,5 +1,5 @@
 <h1>
-Previsão de intensão de compra de Usuários de E-Commerce.
+Previsão de intensão de compra de clientes de E-Commerce.
 </h1>
 
 ## Problema de negócio.
