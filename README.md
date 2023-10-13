@@ -12,10 +12,10 @@ Obter uma classificação de intensão de compra de clientes que utilizam o e-co
 Link para acesso do banco de dados: https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
 
 
-##### Você está aqui pelo processo completo e as linhas de código?
+### Você está aqui pelo processo completo e as linhas de código?
 Siga em frente em cada etapa e caso se sinta a vontade me ajude a desenvolver ainda mais a minha visão sobre analise exploratória de dados.
 
-##### Você está aqui pelo resultado final?
+### Você está aqui pelo resultado final?
 Vá direto ao final conclusão final para entender o resultado final do tratamento e a exploração dos dados.
     
     
